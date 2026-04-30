@@ -1,2 +1,2 @@
-Projeto do Booycamp Luizalabs-DIO.
+Projeto do Bootcamp Luizalabs-DIO.
 Objetivos: Construir uma aplicação API com o FastAPI
